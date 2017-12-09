@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+# Name of your site (displayed in the header)
+name: Marianne
+
+# Short bio or description (displayed in the header)
+description: I love weightlifting
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
