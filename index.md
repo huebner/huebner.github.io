@@ -1,6 +1,6 @@
 ## Welcome to Marianne's Training Pages
 
-![IMAGE](src="https://huebner.github.io/snatchstart.jpg")
+<img src="https://huebner.github.io/snatchstart.jpg">
 
 **Training cycles:**
 
