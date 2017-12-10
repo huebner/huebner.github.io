@@ -1,5 +1,7 @@
 ## Welcome to Marianne's Training Pages
 
+![IMAGE](src="https://huebner.github.io/snatchstart.jpg")
+
 **Training cycles:**
 
 - [Spartan Open, March 2016](https://huebner.github.io/spartan2016.html)
