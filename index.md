@@ -1,6 +1,5 @@
 
 ## Training cycles
-<img src="https://huebner.github.io/snatchstart.jpg" width="200" height="200">
 
 - [Spartan Open, March 2016](https://huebner.github.io/spartan2016.html)
 - [National Masters, March 2017](https://huebner.github.io/National2017.html)
