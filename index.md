@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Marianne's Training Pages
+
+**Training cycles:**
+
+- [Spartan Open, March 2016](https://huebner.github.io/spartan2016.html)
+- [National Masters, March 2017](https://huebner.github.io/National2017.html)
+- [American Open, September 2017](https://huebner.github.io/AmOpen2017.html)
+- [Current](https://huebner.github.io/tonnage.html)
 
 You can use the [editor on GitHub](https://github.com/huebner/huebner.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
