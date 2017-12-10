@@ -1,4 +1,3 @@
-## Welcome to Marianne's Training Pages
 
 <img src="https://huebner.github.io/snatchstart.jpg" width="200" height="200">
 
