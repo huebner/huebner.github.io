@@ -3,7 +3,7 @@
 
 - [Spartan Open, March 2016](https://huebner.github.io/spartan2016.html)
 - [National Masters, March 2017](https://huebner.github.io/National2017.html)
-- [International Women Weightlifting Grand Prix, June 2017](https://huebner.github.io/IntWomGP2017.html)
+- [International Women Weightlifting Grand Prix, June 2017](https://huebner.github.io/IntWomenGP2017.html)
 - [American Open, September 2017](https://huebner.github.io/AmOpen2017.html)
 - [Current](https://huebner.github.io/tonnage.html)
 
