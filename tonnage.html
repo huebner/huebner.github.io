@@ -136,7 +136,7 @@ jerk_max = 67</code></pre>
 </div>
 <div id="training-cycle-before-the-competition" class="section level2">
 <h2>Training cycle before the competition</h2>
-<p>For the calculations of the training total and intensity only exercises are counted that are <span class="math inline">\(\ge\)</span> 50 % of the respective snatch and clean &amp; jerk <em>current</em> competition PR.</p>
+<p>For the calculations of the training total and intensity only exercises are counted that are <span class="math inline">\(\ge\)</span> 50 % of the respective snatch and clean &amp; jerk <strong>current</strong> competition PR.</p>
 <ul>
 <li>Snatches (“s”) include: snatch, snatch from knee, snatch from hang, muscle snatch, power snatch</li>
 <li>Cleans (“c”) include corresponding variations</li>
@@ -606,7 +606,7 @@ ton_j
 <span style="color: blue;">60</span>
 </td>
 <td style="text-align:center;">
-1312
+2170
 </td>
 <td style="text-align:center;">
 1203
@@ -615,7 +615,7 @@ ton_j
 1143
 </td>
 <td style="text-align:center;">
-52
+81
 </td>
 <td style="text-align:center;">
 25
@@ -624,7 +624,7 @@ ton_j
 24
 </td>
 <td style="text-align:center;">
-70
+67
 </td>
 <td style="text-align:center;">
 76
@@ -633,7 +633,7 @@ ton_j
 76
 </td>
 <td style="text-align:center;">
-36
+54
 </td>
 <td style="text-align:center;">
 19
@@ -651,7 +651,7 @@ ton_j
 </tr>
 <tr>
 <td style="padding: 0; border:0;" colspan="100%">
-<sup>b</sup> Tonnage is number of lifts times average relative intensity.
+<sup>b</sup> Tonnage is number of lifts times average relative intensity divided by current PR.
 </td>
 </tr>
 </tfoot>
@@ -1141,10 +1141,10 @@ inol
 90
 </td>
 <td style="text-align:center;">
-32
+51
 </td>
 <td style="text-align:center;">
-8
+18
 </td>
 <td style="text-align:center;">
 7
@@ -1177,7 +1177,7 @@ inol
 4
 </td>
 <td style="text-align:center;">
-0.72
+0.79
 </td>
 <td style="text-align:center;">
 0.30
@@ -1186,14 +1186,14 @@ inol
 0.30
 </td>
 <td style="text-align:center;">
-<span style=" font-weight: bold;color: white;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(37, 132, 142, 1);">1.32</span>
+<span style=" font-weight: bold;color: white;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: rgba(37, 132, 142, 1);">1.39</span>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td style="padding: 0; border:0;" colspan="100%">
-<sup>a</sup> INOL is number of lifts divided by (100- pct max).
+<sup>a</sup> INOL is number of lifts at a certain intensity (= pct max) divided by (100- pct max). These are calculated for each intensity and then added up.
 </td>
 </tr>
 <tr>
@@ -1296,6 +1296,7 @@ newtotal_pr = NA</code></pre>
 <li>k-value for the snatch = NA</li>
 <li>k-value for the clean = NA</li>
 <li>k-value for the jerk = NA</li>
+<li>k-value for the total = NA</li>
 </ul>
 <p><span class="math display">\[
 \mbox{k-value} = \frac{\mbox{total kg lifted in cycle}/\mbox{number of lifts in cycle}}{\mbox{new lift PR}}
