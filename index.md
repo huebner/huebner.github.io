@@ -1,6 +1,8 @@
 ## IWF Masters Statistics
 
-- [Summary for new Qualifying Standards for IWF Masters](https://huebner.github.io/quals_v3.html)
+- [Proposed qualifying standards for IWF Masters and rationale ](https://huebner.github.io/quals_v4.html)
+
+- [Summary for new Qualifying Standards for IWF Masters with new weightcategories](https://huebner.github.io/quals_v3.html)
 
 
 
